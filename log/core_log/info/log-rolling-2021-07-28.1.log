@@ -1,0 +1,6 @@
+2021-07-28 10:54:54 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 11.278 seconds (JVM running for 11.646)
+2021-07-28 13:58:15 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-07-28 13:58:20 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.599 seconds (JVM running for 6.982)
+2021-07-28 14:04:01 [INFO ] http-nio-8110-exec-8 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：CHARGE20210728140401287|999888|null|100000|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1627452241890|9876543210
+2021-07-28 14:04:01 [INFO ] http-nio-8110-exec-8 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：5126d05328befba2fa7beef0954aef11
+2021-07-28 14:26:38 [INFO ] http-nio-8110-exec-5 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|12|123456|民生银行|123456|123456|http://localhost/api/core/userBind/notify|jon|http://localhost:3000/user|1627453598302|9876543210

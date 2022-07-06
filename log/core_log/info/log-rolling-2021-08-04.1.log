@@ -1,0 +1,5 @@
+2021-08-04 14:43:59 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 11.482 seconds (JVM running for 11.812)
+2021-08-04 14:46:59 [INFO ] http-nio-8110-exec-7 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|15|0000000000|民生银行|0000000000|13104867144|http://localhost/api/core/userBind/notify|jon4|http://localhost:3000/user|1628059619362|9876543210
+2021-08-04 14:46:59 [INFO ] http-nio-8110-exec-7 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：7744f398045ae121ec45162b11315839
+2021-08-04 14:47:12 [INFO ] http-nio-8110-exec-8 UserBindController.java:59 com.atguigu.srb.core.controller.api.UserBindController 账户绑定异步回调接收参数如下：{"agentUserId":"15","resultCode":"0001","sign":"e868b7ef77e130ac58f4571f5b5b0f03","bindCode":"3cdfcf1ee20e43c0a667aaa1f4e0dc4d","resultMsg":"成功","timestamp":"1628059631185"}
+2021-08-04 14:47:12 [INFO ] http-nio-8110-exec-8 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：15|3cdfcf1ee20e43c0a667aaa1f4e0dc4d|0001|成功|1628059631185|9876543210

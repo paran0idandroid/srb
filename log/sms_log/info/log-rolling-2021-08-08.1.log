@@ -1,0 +1,7 @@
+2021-08-08 22:15:42 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 11.311 seconds (JVM running for 11.73)
+2021-08-08 22:17:24 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsReceiver.java:37 com.atguigu.srb.sms.receiver.SmsReceiver SmsReceiver消息监听......
+2021-08-08 22:20:48 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2021-08-08 22:20:55 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 10.321 seconds (JVM running for 10.673)
+2021-08-08 22:21:34 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsReceiver.java:38 com.atguigu.srb.sms.receiver.SmsReceiver SmsReceiver消息监听......
+2021-08-08 22:23:15 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2021-08-08 22:23:22 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 10.339 seconds (JVM running for 10.73)

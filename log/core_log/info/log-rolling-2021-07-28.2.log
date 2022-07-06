@@ -1,0 +1,6 @@
+2021-07-28 14:26:38 [INFO ] http-nio-8110-exec-5 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：3fdfc1b9ff5455ed7c36076a6ee1f4e0
+2021-07-28 14:27:46 [INFO ] http-nio-8110-exec-7 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|12|123|123|123|123|http://localhost/api/core/userBind/notify|123|http://localhost:3000/user|1627453666656|9876543210
+2021-07-28 14:27:46 [INFO ] http-nio-8110-exec-7 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：069ac117977d2a686f5d70a7b3013e7a
+2021-07-28 14:30:41 [INFO ] http-nio-8110-exec-2 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：CHARGE20210728143041392|999888|ad6d5ada8a994410917d758d9f15d745|100000|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1627453841340|9876543210
+2021-07-28 14:30:41 [INFO ] http-nio-8110-exec-2 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：c44e0e0a0397b6f6df94ae5146de2826
+2021-07-28 14:33:00 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

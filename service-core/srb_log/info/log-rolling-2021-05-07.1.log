@@ -1,0 +1,6 @@
+2021-05-07 15:14:09 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 4.785 seconds (JVM running for 5.543)
+2021-05-07 15:33:56 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.RedisTemplateTests Starting RedisTemplateTests on LAPTOP-GOEBRDSA with PID 30700 (started by admin in E:\srb\service-core)
+2021-05-07 15:33:56 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.RedisTemplateTests The following profiles are active: dev
+2021-05-07 15:34:00 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 4.794 seconds (JVM running for 5.527)
+2021-05-07 15:54:52 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.RedisTemplateTests Starting RedisTemplateTests on LAPTOP-GOEBRDSA with PID 11660 (started by admin in E:\srb\service-core)
+2021-05-07 15:54:52 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.RedisTemplateTests The following profiles are active: dev

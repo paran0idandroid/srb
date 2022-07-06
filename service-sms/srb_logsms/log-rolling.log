@@ -1,0 +1,6 @@
+2021-05-11 10:12:50 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.sms.UtilsTest Starting UtilsTest on LAPTOP-GOEBRDSA with PID 20328 (started by admin in E:\srb\service-sms)
+2021-05-11 10:12:50 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.UtilsTest The following profiles are active: dev
+2021-05-11 10:12:52 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.UtilsTest Started UtilsTest in 3.167 seconds (JVM running for 4.154)
+2021-05-11 10:41:38 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.sms.UtilsTest Starting UtilsTest on LAPTOP-GOEBRDSA with PID 37928 (started by admin in E:\srb\service-sms)
+2021-05-11 10:41:38 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.UtilsTest The following profiles are active: dev
+2021-05-11 10:41:41 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.UtilsTest Started UtilsTest in 2.991 seconds (JVM running for 3.774)

@@ -1,0 +1,6 @@
+2021-07-28 14:38:08 [INFO ] http-nio-8110-exec-9 UserBindController.java:65 com.atguigu.srb.core.controller.api.UserBindController 验签成功！开始账户绑定
+2021-07-28 14:38:48 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-07-28 14:38:53 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.332 seconds (JVM running for 6.696)
+2021-07-28 14:42:58 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2021-07-28 14:43:02 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.343 seconds (JVM running for 6.699)
+2021-07-28 14:43:33 [INFO ] http-nio-8110-exec-1 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：CHARGE20210728144333217|999888|ad6d5ada8a994410917d758d9f15d745|100000|0|http://localhost/api/core/userAccount/notify|jon|http://localhost:3000/user|1627454613964|9876543210

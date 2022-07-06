@@ -1,0 +1,3 @@
+2021-05-11 12:56:00 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.RedisTemplateTests Starting RedisTemplateTests on LAPTOP-GOEBRDSA with PID 38784 (started by admin in E:\srb\service-core)
+2021-05-11 12:56:00 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.RedisTemplateTests The following profiles are active: dev
+2021-05-11 12:56:05 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.RedisTemplateTests Started RedisTemplateTests in 4.997 seconds (JVM running for 5.821)

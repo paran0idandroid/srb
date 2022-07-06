@@ -1,0 +1,11 @@
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:85 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-9 DictServiceImpl.java:85 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:85 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:85 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:85 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:99 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:99 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:99 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:99 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2021-08-04 14:53:15 [INFO ] http-nio-8110-exec-9 DictServiceImpl.java:99 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2021-08-04 15:05:31 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

@@ -1,0 +1,5 @@
+2021-08-04 14:52:09 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|16|5555555555|民生银行|5555555555|13104867145|http://localhost/api/core/userBind/notify|jon5|http://localhost:3000/user|1628059929656|9876543210
+2021-08-04 14:52:09 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：c5abb007d02e8371811784ec62a78346
+2021-08-04 14:52:17 [INFO ] http-nio-8110-exec-4 UserBindController.java:59 com.atguigu.srb.core.controller.api.UserBindController 账户绑定异步回调接收参数如下：{"agentUserId":"16","resultCode":"0001","sign":"581c54307a8851385b9314f8fc91d70b","bindCode":"34b175b289194612be3ca0068e10ffaf","resultMsg":"成功","timestamp":"1628059936118"}
+2021-08-04 14:52:17 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：16|34b175b289194612be3ca0068e10ffaf|0001|成功|1628059936118|9876543210
+2021-08-04 14:52:17 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：581c54307a8851385b9314f8fc91d70b

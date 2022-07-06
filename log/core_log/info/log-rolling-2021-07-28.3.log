@@ -1,0 +1,6 @@
+2021-07-28 14:33:05 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.302 seconds (JVM running for 6.661)
+2021-07-28 14:34:26 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|12|123|123|123|123|http://localhost/api/core/userBind/notify|123|http://localhost:3000/user|1627454066903|9876543210
+2021-07-28 14:34:26 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：dc101f8d0d7de9be0b4c8a41cf5b2d77
+2021-07-28 14:35:14 [INFO ] http-nio-8110-exec-5 UserBindController.java:59 com.atguigu.srb.core.controller.api.UserBindController 账户绑定异步回调接收参数如下：{}
+2021-07-28 14:35:14 [INFO ] http-nio-8110-exec-5 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：9876543210
+2021-07-28 14:35:14 [INFO ] http-nio-8110-exec-5 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：e388c1c5df4933fa01f6da9f92595589
